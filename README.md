@@ -8,7 +8,9 @@ This is an implementation of Chinese spelling check system.
 - [Installation](#installation)
 
 <span id="about">
+
 ## About
+
 The system mainly consists of the following three parts:
 - A Tri-gram Language Model
 - Confusionset
@@ -16,12 +18,16 @@ The system mainly consists of the following three parts:
 </span>
 
 <span id="demo">
+
 ## Demo
+
 <p align="center"><img width="70%" src="img/example.png" /></p>
 </span>
 
 <span id="Installation">
+
 ## Installation
+
 Except for some pre-installed python libraries, there some additional packages needed
 to be installed in order to successfully run our system. We have listed the 
 compulsory packages in the requirements.txt. Run the following commands
