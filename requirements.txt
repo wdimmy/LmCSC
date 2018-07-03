@@ -1,0 +1,6 @@
+kenlm
+argparse
+msgpack
+prettytable
+jieba
+OpenCC
