@@ -18,7 +18,7 @@ with open('requirements.txt') as f:
     reqs = f.read()
 
 setup(
-    name='drqa',
+    name='lmcsc',
     version='0.1.0',
     description='Chinese spelling check',
     long_description=readme,
