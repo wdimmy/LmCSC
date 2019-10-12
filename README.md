@@ -48,7 +48,13 @@ You can train the langauge model using [kenlm](https://github.com/kpu/kenlm.git)
 chmod 777 ./download.sh 
 ./download.sh 
 ```
-**NOTE**: we provide two versions: kenlm_3.bin（about 13GB) and kenlm_3_small.bin (about 3GB),  and obviously, the former one works better.
+**NOTE**: we provide two versions:
+
+ kenlm_3.bin（about 13GB): https://s3-us-west-2.amazonaws.com/kenlm-model/kenlm_3.bin
+
+ kenlm_3_small.bin (about 3GB): https://s3-us-west-2.amazonaws.com/kenlm-model/kenlm_3_small.bin
+
+The bigger one works better.
 
 </span>
 
