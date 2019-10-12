@@ -4,3 +4,4 @@ msgpack
 prettytable
 jieba
 OpenCC
+xpinyin
