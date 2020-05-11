@@ -50,9 +50,9 @@ chmod 777 ./download.sh
 ```
 **NOTE**: we provide two versions:
 
- kenlm_3.bin（about 13GB): https://s3-us-west-2.amazonaws.com/kenlm-model/kenlm_3.bin
+kenlm_3.bin（about 13GB): https://pan.baidu.com/s/1g7LL_sLs-ra2l9VxeDp-9w 提取码：0u3q
 
- kenlm_3_small.bin (about 3GB): https://s3-us-west-2.amazonaws.com/kenlm-model/kenlm_3_small.bin
+kenlm_3_small.bin (about 3GB): https://pan.baidu.com/s/1mMVVHmNtM_FXLJ5yIiRX7Q 提取码：91qj
 
 The bigger one works better.
 
